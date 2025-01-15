@@ -13,6 +13,4 @@ Hi there 👋<br>I'm Sihab Howladar, a 2nd-year Software Engineering student at 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIHAB69&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SHIHAB69&icon=0&color=9)](https://visitcount.itsvg.in)
-
-
+![Profile views](https://komarev.com/ghpvc/?username=SHIHAB69)
