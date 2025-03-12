@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Sihab Howladar, a 2nd-year Software Engineering student at Daffodil International University, passionate about software development and learning new technologies!<br><br> Currently working at Q-Bit learning as course coordinator<br> Learning: State management in Flutter, especially Bloc<br> Looking to collaborate on Exciting projects where I can grow and contribute<br> Work Style: I enjoy staying busy and love the process of continuous learning through hands-on projects<br>Let's connect and build something great together!!
+Hi there 👋<br>I'm Sihab Howladar, Undergraduate Software Engineering student at Daffodil International University, passionate about software development and learning new technologies!<br><br> Currently working at Q-Bit learning as course coordinator<br> Learning: State management in Flutter, especially Bloc<br> Looking to collaborate on Exciting projects where I can grow and contribute<br> Work Style: I enjoy staying busy and love the process of continuous learning through hands-on projects<br>Let's connect and build something great together!!
 
 
 ## 🌐 Socials:
