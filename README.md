@@ -14,3 +14,12 @@ Hi there 👋<br>I'm Sihab Howladar, an Undergraduate Software Engineering stude
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=SHIHAB69)
+
+## My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHIHAB69/SHIHAB69/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHIHAB69/SHIHAB69/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SHIHAB69/SHIHAB69/output/pacman-contribution-graph.svg">
+</picture>
+
