@@ -1,6 +1,28 @@
-# 💫 About Me:
-Hi there 👋<br>I'm Sihab Howladar, an Undergraduate Software Engineering student at Daffodil International University, passionate about software development and learning new technologies!<br><br> Currently working at TechJays as a Software Engineer Analyst<br> Learning: State management in Flutter, especially Bloc<br> Looking to collaborate on Exciting projects where I can grow and contribute<br> Work Style: I enjoy staying busy and love the process of continuous learning through hands-on projects<br>Let's connect and build something great together!!
+<h2>💫 About Me</h2>
 
+<p>
+Hi there 👋 <br>
+I’m <b>Sihab Howlader</b>, a Software Engineer with hands-on experience building
+production-grade applications using <b>Flutter</b> and <b>Django</b>.
+</p>
+
+<p>
+I currently work at <b>TechJays</b> as a <b>Software Engineer Analyst</b>, where I
+contribute to real-world systems including AI-powered hiring platforms,
+HR management portals, and applications involving real-time communication
+and automation.
+</p>
+
+<p>
+I’m actively sharpening my skills in <b>Flutter state management (Bloc)</b> and
+enjoy working across both <b>mobile</b> and <b>backend</b> systems.
+I like staying busy, learning through hands-on problem solving, and
+collaborating on impactful projects that solve real user problems.
+</p>
+
+<p>
+Let’s connect and build something meaningful together 🚀
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/MARAUDERzOnToP) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sihab-howlader-b7426b2b1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Shihabhowlader) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23045043) 
